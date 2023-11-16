@@ -1,38 +1,38 @@
 [
     {
-        "image": "../assets/anime.jpg",
+        "image": "/assets/anime.jpg",
         "name": "anime"
     },
     {
-        "image": "../assets/english.jpg",
+        "image": "/assets/english.jpg",
         "name": "english"
     },
     {
-        "image": "../assets/videogames.jpg",
+        "image": "/assets/videogames.jpg",
         "name": "games"
     },
     {
-        "image": "../assets/gym.jpg",
+        "image": "/assets/gym.jpg",
         "name": "gym"
     },
     {
-        "image": "../assets/japanese.jpg",
+        "image": "/assets/japanese.jpg",
         "name": "japanese"
     },
     {
-        "image": "../assets/programming.jpeg",
+        "image": "/assets/programming.jpeg",
         "name": "programming"
     },
     {
-        "image": "../assets/python.png",
+        "image": "/assets/python.png",
         "name": "python"
     },
     {
-        "image": "../assets/speaking.jpg",
+        "image": "/assets/speaking.jpg",
         "name": "speaking"
     },
     {
-        "image": "../assets/webdev.jpg",
+        "image": "/assets/webdev.jpg",
         "name": "webdev"
     }
 
